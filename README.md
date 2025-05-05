@@ -21,9 +21,5 @@ Factorials, power, root, memory operations, and constants (π, e)
 ⌨️ Integrated keyboard-friendly input handling for improved accessibility.
 
 🧪 Tech Stack
-React.js (Functional Components + Hooks)
-
-JavaScript (ES6+)
-
-Bootstrap 5
+React.js (Functional Components + Hooks), JavaScript (ES6+), Bootstrap 5
 
